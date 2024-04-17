@@ -10,6 +10,6 @@ Files: Geoid to Neighborhood.xlsx, Housing Analysis.ipynb
 Michael Malloy
 mrm358@pitt.edu
 Did the traffic analysis data
-Notebook: finalTraffic
+Notebook: finalTraffic.ipynb
 Datasets: pittTraffic.csv https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
 
