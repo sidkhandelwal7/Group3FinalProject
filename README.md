@@ -10,11 +10,11 @@
   Files: Geoid to Neighborhood.xlsx, Housing_Analysis_Tucker_Pavelek.ipynb  
   Dataset Link: https://data.wprdc.org/dataset/market-value-analysis-2021  
 
-Michael Malloy
-mrm358@pitt.edu
-Did the traffic analysis data
-Notebook: finalTraffic.ipynb
-Datasets: miles.csv, pittTraffic.csv- https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167
+  Michael Malloy  
+  mrm358@pitt.edu  
+  Did the traffic analysis data  
+  Notebook: finalTraffic.ipynb  
+  Datasets: miles.csv, pittTraffic.csv- https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167  
 
 
 
