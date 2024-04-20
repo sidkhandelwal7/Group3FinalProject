@@ -10,7 +10,6 @@ Folders: PGH_BOUND, PITT_DRR, PITT_MVA
 Files: Geoid to Neighborhood.xlsx, Housing_Analysis_Tucker_Pavelek.ipynb
 Dataset Link: https://data.wprdc.org/dataset/market-value-analysis-2021
 
-
 Michael Malloy
 mrm358@pitt.edu
 Did the traffic analysis data
