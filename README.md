@@ -17,8 +17,8 @@
   Datasets: miles.csv, pittTraffic.csv- https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh/resource/6dfd4f8f-cbf5-4917-a5eb-fd07f4403167  
 
   Sid Handelwal  
-  ???@pitt.edu  
-  Analyzed arrests  
+  sik85@pitt.edu  
+  Analyzed crime data (arrests)
   Notebook:  
   Dataset Link: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f  
 
